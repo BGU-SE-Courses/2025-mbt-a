@@ -1,4 +1,4 @@
-Feature: PastaShop Cart Management
+Feature: PrestaShop Cart Management
 
   Scenario: User adds a product to the cart twice
     Given User is already in PastaShop home page
